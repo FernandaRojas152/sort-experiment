@@ -7,11 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using sort_experiment.model;
 
 namespace sort_experiment.ui
 {
+    
     public partial class Interface : Form
     {
+        private Experiment experiment;
         public Interface()
         {
             InitializeComponent();
@@ -19,6 +22,7 @@ namespace sort_experiment.ui
 
         private void btnStart_Click(object sender, EventArgs e)
         {
+            experiment = new Experiment();
             txtQuicksortH.Text = "100";
             txtQuicksortTh.Text = "1000";
             txtSelectionH.Text = "100";
