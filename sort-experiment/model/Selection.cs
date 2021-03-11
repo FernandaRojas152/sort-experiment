@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace sort_experiment.model
 {
-    class Selection_Sort
+    class Selection
     {
         public void Selection(int[] a)
         {
