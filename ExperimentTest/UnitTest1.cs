@@ -1,11 +1,10 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using sort_experiment;
 
 namespace ExperimentTest
 {
     [TestClass]
-    public class SelectionTest
+    public class UnitTest1
     {
         [TestMethod]
         public void TestMethod1()
