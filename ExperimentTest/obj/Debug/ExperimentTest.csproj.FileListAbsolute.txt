@@ -18,3 +18,23 @@ C:\Users\Ferna\Downloads\sort-experiment\ExperimentTest\obj\Debug\ExperimentTest
 C:\Users\Ferna\Downloads\sort-experiment\ExperimentTest\obj\Debug\ExperimentTest.csproj.CopyComplete
 C:\Users\Ferna\Downloads\sort-experiment\ExperimentTest\obj\Debug\ExperimentTest.dll
 C:\Users\Ferna\Downloads\sort-experiment\ExperimentTest\obj\Debug\ExperimentTest.pdb
+E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\ExperimentTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\ExperimentTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\ExperimentTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\ExperimentTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\ExperimentTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\ExperimentTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\ExperimentTest\bin\Debug\ExperimentTest.dll
+E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\ExperimentTest\bin\Debug\ExperimentTest.pdb
+E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\ExperimentTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\ExperimentTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\ExperimentTest\bin\Debug\sort-experiment.exe
+E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\ExperimentTest\bin\Debug\sort-experiment.pdb
+E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\ExperimentTest\bin\Debug\sort-experiment.exe.config
+E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\ExperimentTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\ExperimentTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\ExperimentTest\obj\Debug\ExperimentTest.csprojAssemblyReference.cache
+E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\ExperimentTest\obj\Debug\ExperimentTest.csproj.CoreCompileInputs.cache
+E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\ExperimentTest\obj\Debug\ExperimentTest.csproj.CopyComplete
+E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\ExperimentTest\obj\Debug\ExperimentTest.dll
+E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\ExperimentTest\obj\Debug\ExperimentTest.pdb
