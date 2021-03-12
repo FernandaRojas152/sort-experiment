@@ -8,7 +8,7 @@ namespace sort_experiment.model
 {
     class Selection
     {
-        public void Selection(int[] a)
+        public void selectionSort(int[] a)
         {
             int aux, temp;
             int n = a.Length;

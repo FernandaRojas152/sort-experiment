@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="model\Experiment.cs" />
+    <Compile Include="model\Selection.cs" />
     <Compile Include="ui\Interface.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,7 +55,6 @@
       <DependentUpon>Interface.cs</DependentUpon>
     </Compile>
     <Compile Include="model\Quicksort.cs" />
-    <Compile Include="model\Selection_Sort.cs" />
     <Compile Include="ui\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
