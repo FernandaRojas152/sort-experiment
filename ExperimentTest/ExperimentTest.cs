@@ -7,11 +7,15 @@ namespace ExperimentTest
     [TestClass]
     public class ExperimentTest
     {
+        private Experiment ex;
         private int[] arr;
         private Random random = new Random();
+        [TestInitialize]
+        public void initialize()
+        {
+            ex = new Experiment();
+        }
 
-
-        [TestMethod]
         public void SetUpScenary()
         {
             arr = new int[10];
@@ -19,10 +23,8 @@ namespace ExperimentTest
             {
                 arr[i] = random.Next();
             }
-           Experiment.SetArr(arr);
+            ex.SetArr(arr);
         }
-
-        [TestMethod]
         public void SetUpScenary1()
         {
             arr = new int[100];
@@ -30,10 +32,9 @@ namespace ExperimentTest
             {
                 arr[i] = random.Next();
             }
-            Experiment.SetArr(arr);
+            ex.SetArr(arr);
         }
 
-        [TestMethod]
         public void SetUpScenary2()
         {
             arr = new int[1000];
@@ -41,7 +42,7 @@ namespace ExperimentTest
             {
                 arr[i] = random.Next();
             }
-            Experiment.SetArr(arr);
+            ex.SetArr(arr);
         }
 
         [TestMethod]
@@ -50,7 +51,7 @@ namespace ExperimentTest
             for (int j = 0; j < 1000; j++)
             {
                 SetUpScenary();
-                Experiment.Selection();
+                ex.Selection();
             }
         }
 
@@ -60,7 +61,7 @@ namespace ExperimentTest
             for (int j = 0; j < 1000; j++)
             {
                 SetUpScenary1();
-                Experiment.Selection();
+                ex.Selection();
             }
         }
 
@@ -70,7 +71,7 @@ namespace ExperimentTest
             for (int j = 0; j < 1000; j++)
             {
                 SetUpScenary2();
-                Experiment.Selection();
+                ex.Selection();
             }
         }
     }

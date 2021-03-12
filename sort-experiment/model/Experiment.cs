@@ -6,21 +6,26 @@ using System.Threading.Tasks;
 
 namespace sort_experiment.model
 {
-    public static class Experiment
+    public class Experiment
     {
-		private static int[] arr;
+		private int[] arr;
 
-		public static int[] GetArr()
+		public Experiment()
+        {
+
+        }
+
+		public int[] GetArr()
 		{
 			return arr;
 		}
 
-		public static void SetArr(int[] value)
+		public void SetArr(int[] value)
 		{
 			arr = value;
 		}
 
-		public static void Selection()
+		public void Selection()
 		{
 			int n = arr.Length;
 
@@ -34,7 +39,6 @@ namespace sort_experiment.model
 						min_idx = j;
 					}
 				}
-
 				int temp = GetArr()[min_idx];
 				GetArr()[min_idx] = GetArr()[i];
 				GetArr()[i] = temp;
