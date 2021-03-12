@@ -47,7 +47,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="model\Experiment.cs" />
-    <Compile Include="model\Selection.cs" />
     <Compile Include="ui\Interface.cs">
       <SubType>Form</SubType>
     </Compile>

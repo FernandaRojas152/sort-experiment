@@ -8,3 +8,13 @@ D:\universidad\semestre 5\integrador 1\experimento sort\sort-experiment\sort-exp
 D:\universidad\semestre 5\integrador 1\experimento sort\sort-experiment\sort-experiment\obj\Debug\sort-experiment.csproj.CoreCompileInputs.cache
 D:\universidad\semestre 5\integrador 1\experimento sort\sort-experiment\sort-experiment\obj\Debug\sort-experiment.exe
 D:\universidad\semestre 5\integrador 1\experimento sort\sort-experiment\sort-experiment\obj\Debug\sort-experiment.pdb
+C:\Users\Ferna\Downloads\sort-experiment\sort-experiment\bin\Debug\sort-experiment.exe.config
+C:\Users\Ferna\Downloads\sort-experiment\sort-experiment\bin\Debug\sort-experiment.exe
+C:\Users\Ferna\Downloads\sort-experiment\sort-experiment\bin\Debug\sort-experiment.pdb
+C:\Users\Ferna\Downloads\sort-experiment\sort-experiment\obj\Debug\sort-experiment.csprojAssemblyReference.cache
+C:\Users\Ferna\Downloads\sort-experiment\sort-experiment\obj\Debug\sort_experiment.Properties.Resources.resources
+C:\Users\Ferna\Downloads\sort-experiment\sort-experiment\obj\Debug\sort_experiment.ui.Interface.resources
+C:\Users\Ferna\Downloads\sort-experiment\sort-experiment\obj\Debug\sort-experiment.csproj.GenerateResource.cache
+C:\Users\Ferna\Downloads\sort-experiment\sort-experiment\obj\Debug\sort-experiment.csproj.CoreCompileInputs.cache
+C:\Users\Ferna\Downloads\sort-experiment\sort-experiment\obj\Debug\sort-experiment.exe
+C:\Users\Ferna\Downloads\sort-experiment\sort-experiment\obj\Debug\sort-experiment.pdb
