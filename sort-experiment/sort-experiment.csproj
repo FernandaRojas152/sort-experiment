@@ -46,7 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="model\Selection.cs" />
+=======
+>>>>>>> a7a60275bdea25efa6b7d9ace0c14c0ed45761cc
     <Compile Include="model\Experiment.cs" />
     <Compile Include="ui\Interface.cs">
       <SubType>Form</SubType>
@@ -55,6 +58,10 @@
       <DependentUpon>Interface.cs</DependentUpon>
     </Compile>
     <Compile Include="model\Quicksort.cs" />
+<<<<<<< HEAD
+=======
+    <Compile Include="model\Selection_Sort.cs" />
+>>>>>>> a7a60275bdea25efa6b7d9ace0c14c0ed45761cc
     <Compile Include="ui\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">

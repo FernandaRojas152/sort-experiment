@@ -6,9 +6,15 @@ using System.Threading.Tasks;
 
 namespace sort_experiment.model
 {
+<<<<<<< HEAD
     public class Selection
     {
         public void selectionSort(int[] a)
+=======
+    class Selection
+    {
+        public void Selection(int[] a)
+>>>>>>> a7a60275bdea25efa6b7d9ace0c14c0ed45761cc
         {
             int aux, temp;
             int n = a.Length;
