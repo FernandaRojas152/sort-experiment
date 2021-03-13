@@ -8,6 +8,7 @@ Developers:
 Nicolas Colmenares
 Luisa Fernanda Quintero
 Kevin Fernandez
+David Pelaez
 
 Tech Spec
 Lenguaje: C#
