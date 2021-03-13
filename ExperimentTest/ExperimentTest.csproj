@@ -5,11 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-<<<<<<< HEAD
-    <ProjectGuid>{0A55DC93-2E2A-4B50-A787-4E55D8F7C163}</ProjectGuid>
-=======
-    <ProjectGuid>{C2772CFD-1104-484D-A479-9B9F4B1553E9}</ProjectGuid>
->>>>>>> a7a60275bdea25efa6b7d9ace0c14c0ed45761cc
+    <ProjectGuid>{A188C159-EF0A-4260-B7AE-15DCFA95BCAB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ExperimentTest</RootNamespace>
@@ -53,7 +49,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SelectionTest.cs" />
+    <Compile Include="ExperimentTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
