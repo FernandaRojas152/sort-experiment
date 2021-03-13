@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace sort_experiment.model
 {
-    class Quicksort
+    public class Quicksort
     {
         public int Partition(int[] a, int left, int right)
         {
