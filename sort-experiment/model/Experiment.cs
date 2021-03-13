@@ -25,8 +25,19 @@ namespace sort_experiment.model
 			arr = value;
 		}
 
-		public void Selection()
+		public void generateArray(int n)
+        {
+			Random random = new Random();
+			arr = new int[n];
+			for (int i = 0; i < arr.Length; i++)
+			{
+				arr[i] = random.Next();
+			}
+		}
+
+		public double Selection()
 		{
+			Double time = DateTimeOffset.Now.ToUnixTimeMilliseconds();
 			int n = arr.Length;
 
 			for (int i = 0; i < n - 1; i++)
@@ -43,6 +54,8 @@ namespace sort_experiment.model
 				GetArr()[min_idx] = GetArr()[i];
 				GetArr()[i] = temp;
 			}
+			time = DateTimeOffset.Now.ToUnixTimeMilliseconds() - time;
+			return time/1000;
 		}
 	}
 }

@@ -34,8 +34,9 @@ namespace sort_experiment.model
                 }
             }
         }
-        public void quickSort(int[] a, int start, int end)
+        public Double quickSort(int[] a, int start, int end)
         {
+            Double time = DateTimeOffset.Now.ToUnixTimeMilliseconds();
             int pivot;
             if (start < end)
             {
@@ -49,6 +50,8 @@ namespace sort_experiment.model
                     quickSort(a, pivot + 1, end);
                 }
             }
+            time = DateTimeOffset.Now.ToUnixTimeMilliseconds() - time;
+            return time/1000;
         }
     }
 }

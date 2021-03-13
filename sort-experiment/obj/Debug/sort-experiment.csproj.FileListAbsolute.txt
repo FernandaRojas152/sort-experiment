@@ -28,3 +28,13 @@ E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\sort-experiment\obj\De
 E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\sort-experiment\obj\Debug\sort-experiment.csproj.CoreCompileInputs.cache
 E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\sort-experiment\obj\Debug\sort-experiment.exe
 E:\universidad\TEMP 5\PROYECTO INTEGRADOR\sort-experiment\sort-experiment\obj\Debug\sort-experiment.pdb
+C:\Users\usuario\Source\Repos\sort-experiment\sort-experiment\bin\Debug\sort-experiment.exe.config
+C:\Users\usuario\Source\Repos\sort-experiment\sort-experiment\bin\Debug\sort-experiment.exe
+C:\Users\usuario\Source\Repos\sort-experiment\sort-experiment\bin\Debug\sort-experiment.pdb
+C:\Users\usuario\Source\Repos\sort-experiment\sort-experiment\obj\Debug\sort-experiment.csprojAssemblyReference.cache
+C:\Users\usuario\Source\Repos\sort-experiment\sort-experiment\obj\Debug\sort_experiment.Properties.Resources.resources
+C:\Users\usuario\Source\Repos\sort-experiment\sort-experiment\obj\Debug\sort_experiment.ui.Interface.resources
+C:\Users\usuario\Source\Repos\sort-experiment\sort-experiment\obj\Debug\sort-experiment.csproj.GenerateResource.cache
+C:\Users\usuario\Source\Repos\sort-experiment\sort-experiment\obj\Debug\sort-experiment.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Source\Repos\sort-experiment\sort-experiment\obj\Debug\sort-experiment.exe
+C:\Users\usuario\Source\Repos\sort-experiment\sort-experiment\obj\Debug\sort-experiment.pdb
